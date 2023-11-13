@@ -15,7 +15,6 @@ This document lists various custom GPT models created by ChatGPT users. Each ent
 
 [Link to GPT](https://chat.openai.com/g/g-nARUSsAoA-gpt-builder-ideas)
 
-![Image](https://v5.airtableusercontent.com/v2/22/22/1699840800000/2nU6GqFZXHKgny61zJMoRw/3AWW1nJoVyhsTFBjDD4zePk31woxfPeR7oTDmMLrsW6TcGkFB7EQOJU4Tuid7y0QedvmMWAYNtca-y6QmlRFw_6toeWoKRoXZQykuC0Nafx25rOwgk1mmw2yyLMOljik1yiq0b5z6Gjp1FpfdAvkZYHqanojHqt8J5Q4hA-WkYz3S0zZ_A3ypDlBl5yOvdOn/7U2QG4CpOxHr80k00n2tCTaW3N9jae7NpPNIlxk79Ls)
 
 ### Meme Builder
 **Creator:** Metehan Yesilyurt
